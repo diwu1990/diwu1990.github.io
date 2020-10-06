@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exponentiation | Di Wu&#39;s Homepage</title>
+    <link>https://diwu1990.github.io/tag/exponentiation/</link>
+      <atom:link href="https://diwu1990.github.io/tag/exponentiation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exponentiation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Exponentiation</title>
+      <link>https://diwu1990.github.io/tag/exponentiation/</link>
+    </image>
+    
+    <item>
+      <title>SECO: A Scalable Accuracy Approximate Exponential Function Via Cross-Layer Optimization</title>
+      <link>https://diwu1990.github.io/publication/2019-07-29-islped/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/publication/2019-07-29-islped/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

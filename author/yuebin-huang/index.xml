@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuebin Huang | Di Wu&#39;s Homepage</title>
+    <link>https://diwu1990.github.io/author/yuebin-huang/</link>
+      <atom:link href="https://diwu1990.github.io/author/yuebin-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuebin Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuebin Huang</title>
+      <link>https://diwu1990.github.io/author/yuebin-huang/</link>
+    </image>
+    
+    <item>
+      <title>A High-Throughput LDPC decoder For Optical Communication</title>
+      <link>https://diwu1990.github.io/publication/2013-10-28-asicon/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/publication/2013-10-28-asicon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataflow | Di Wu&#39;s Homepage</title>
+    <link>https://diwu1990.github.io/tag/dataflow/</link>
+      <atom:link href="https://diwu1990.github.io/tag/dataflow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dataflow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dataflow</title>
+      <link>https://diwu1990.github.io/tag/dataflow/</link>
+    </image>
+    
+    <item>
+      <title>RAVEN</title>
+      <link>https://diwu1990.github.io/project/raven/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/project/raven/</guid>
+      <description>&lt;p&gt;With the fast evolvement of neural network models, existing solutions lack the support for more complicated dataflow and operations, including reduction operation, sparse operation and nonlinear functions, etc. Properly leveraging the reconfigurability of the hardware, we are able to address those challenges while not introducing programming overhead.
+RAVEN was among &lt;a href=&#34;https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/finalists&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the finalists of Qualcomm Innovation Fellowship in 2019&lt;/a&gt;. Currently, RAVEN is still in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

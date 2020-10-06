@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Di Wu&#39;s Homepage</title>
+    <link>https://diwu1990.github.io/post/</link>
+      <atom:link href="https://diwu1990.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://diwu1990.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Paper is accepted in ASP-DAC 2021</title>
+      <link>https://diwu1990.github.io/post/aspdac-accepted/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/aspdac-accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://diwu1990.github.io/post/hello-world/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

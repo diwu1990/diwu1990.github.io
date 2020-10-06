@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Changsheng Zhou | Di Wu&#39;s Homepage</title>
+    <link>https://diwu1990.github.io/author/changsheng-zhou/</link>
+      <atom:link href="https://diwu1990.github.io/author/changsheng-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Changsheng Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Changsheng Zhou</title>
+      <link>https://diwu1990.github.io/author/changsheng-zhou/</link>
+    </image>
+    
+    <item>
+      <title>An Efficient Multirate LDPC-CC Decoder With a Layered Decoding Algorithm for the IEEE 1901 Standard</title>
+      <link>https://diwu1990.github.io/publication/2014-10-14-tcasii/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/publication/2014-10-14-tcasii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

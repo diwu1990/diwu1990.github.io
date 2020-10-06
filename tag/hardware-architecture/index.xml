@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware Architecture | Di Wu&#39;s Homepage</title>
+    <link>https://diwu1990.github.io/tag/hardware-architecture/</link>
+      <atom:link href="https://diwu1990.github.io/tag/hardware-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hardware Architecture</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hardware Architecture</title>
+      <link>https://diwu1990.github.io/tag/hardware-architecture/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Hardware Techniques for Energy-Quality Scaling Across the System</title>
+      <link>https://diwu1990.github.io/publication/2020-01-19-iceic/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/publication/2020-01-19-iceic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
