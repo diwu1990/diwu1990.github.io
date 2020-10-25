@@ -5,12 +5,25 @@
     <link>https://diwu1990.github.io/author/di-wu/</link>
       <atom:link href="https://diwu1990.github.io/author/di-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Di Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Di Wu</title>
       <link>https://diwu1990.github.io/author/di-wu/</link>
     </image>
+    
+    <item>
+      <title>RAVEN focuses on the time-scalability of DL models</title>
+      <link>https://diwu1990.github.io/post/raven-post-0/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/raven-post-0/</guid>
+      <description>&lt;p&gt;I consider two aspects that RAVEN coincides with &lt;a href=&#34;https://www.simplemachines.ai/ai%E2%80%99s-impact-hardware-why-chips-need-be-redesigned-keep-new-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimpleMachines&amp;rsquo;s post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;First, RAVEN targets the nonlinearity, sparsity and compatibility of accelerators to emerging neural network.
+SimpleMachines nicely summarise the recent development in DNNs with NMT as an example. Bert and LSTM based implementations of NMT pose different requirements to the hardware, which I believe fall into the range of RAVEN.&lt;/p&gt;
+&lt;p&gt;Second, RAVEN is supposed to be built on reconfigurable MAC arrays, introducing minimal programming overheads, as suggested by SimpleMachines.&lt;/p&gt;
+&lt;p&gt;More ideas about the scheduling of RAVEN will come later.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper is accepted in ASP-DAC 2021</title>

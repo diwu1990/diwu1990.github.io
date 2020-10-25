@@ -3,18 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diwu1990.github.io/tag/approximate-computing/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://diwu1990.github.io/authors/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/tag/deep-learning/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://diwu1990.github.io/author/di-wu/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://diwu1990.github.io/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/post/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/post/raven-post-0/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/tags/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://diwu1990.github.io/post/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://diwu1990.github.io/tag/stochastic-computing/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tags/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -125,11 +140,6 @@
   <url>
     <loc>https://diwu1990.github.io/talk/2020-02-24-ece752-unary/</loc>
     <lastmod>2020-02-24T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/approximate-computing/</loc>
-    <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -239,11 +249,6 @@
   
   <url>
     <loc>https://diwu1990.github.io/tag/dataflow/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/deep-learning/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
