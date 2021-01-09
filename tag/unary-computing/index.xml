@@ -5,12 +5,21 @@
     <link>https://diwu1990.github.io/tag/unary-computing/</link>
       <atom:link href="https://diwu1990.github.io/tag/unary-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Unary Computing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Unary Computing</title>
       <link>https://diwu1990.github.io/tag/unary-computing/</link>
     </image>
+    
+    <item>
+      <title>ISCA&#39;20 is selected in IEEE Micro Top Picks 2021</title>
+      <link>https://diwu1990.github.io/post/toppicks2021/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/toppicks2021/</guid>
+      <description>&lt;p&gt;A brief introduction to the original &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is &lt;a href=&#34;https://diwu1990.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
@@ -83,15 +92,6 @@
       <guid>https://diwu1990.github.io/project/unary/</guid>
       <description>&lt;p&gt;Unary computing applies unary bit streams as internal data, and mitigates the conversion of data from unary to binary in converntional computers, leading to less system-level latency, as in the diagram.
 Currently, unary computing has already been applied to low-density parity-check code, image processing and machine learning. We create &lt;a href=&#34;https://github.com/diwu1990/UnarySim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UnarySim&lt;/a&gt; to accurately simulate the behavior of unary computing at cycle level.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ISCA&#39;20 is selected in IEEE Micro Top Picks 2021</title>
-      <link>https://diwu1990.github.io/post/toppicks2021/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/toppicks2021/</guid>
-      <description>&lt;p&gt;A brief introduction to the original &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is &lt;a href=&#34;https://diwu1990.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

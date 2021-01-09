@@ -5,12 +5,21 @@
     <link>https://diwu1990.github.io/post/</link>
       <atom:link href="https://diwu1990.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://diwu1990.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>ISCA&#39;20 is selected in IEEE Micro Top Picks 2021</title>
+      <link>https://diwu1990.github.io/post/toppicks2021/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/toppicks2021/</guid>
+      <description>&lt;p&gt;A brief introduction to the original &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is &lt;a href=&#34;https://diwu1990.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper is accepted in IEEE Design &amp; Test 2021</title>
@@ -48,15 +57,6 @@ SimpleMachines nicely summarise the recent development in DNNs with NMT as an ex
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/post/hello-world/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ISCA&#39;20 is selected in IEEE Micro Top Picks 2021</title>
-      <link>https://diwu1990.github.io/post/toppicks2021/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/toppicks2021/</guid>
-      <description>&lt;p&gt;A brief introduction to the original &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is &lt;a href=&#34;https://diwu1990.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
