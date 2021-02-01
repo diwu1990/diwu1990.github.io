@@ -5,12 +5,21 @@
     <link>https://diwu1990.github.io/</link>
       <atom:link href="https://diwu1990.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Di Wu&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Di Wu&#39;s Homepage</title>
       <link>https://diwu1990.github.io/</link>
     </image>
+    
+    <item>
+      <title>The webpage for unary computing is up!</title>
+      <link>https://diwu1990.github.io/post/2021-02-02-unary-web/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/2021-02-02-unary-web/</guid>
+      <description>&lt;p&gt;The website can be found &lt;a href=&#34;https://unarycomputing.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Normalized Stability: A Cross-Level Design Metric for Early Termination in Stochastic Computing</title>
