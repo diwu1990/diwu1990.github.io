@@ -68,67 +68,32 @@
   </url>
   
   <url>
-    <loc>https://diwu1990.github.io/tag/gemm/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/post/toppicks2021/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/open-source/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://diwu1990.github.io/post/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://diwu1990.github.io/tag/nonliearity/</loc>
+    <loc>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</loc>
+    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/post/2020-12-30-ieee-dt/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://diwu1990.github.io/post/ieeedt-accepted/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/stochastic-computing/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/approximate-computing/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/deep-learning/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/post/raven-post-0/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/tag/early-termination/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/post/aspdac-accepted/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <loc>https://diwu1990.github.io/post/2020-09-12-aspdac/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://diwu1990.github.io/tag/architecture/</loc>
+    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/tag/gemm/</loc>
     <lastmod>2020-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -153,6 +118,11 @@
   </url>
   
   <url>
+    <loc>https://diwu1990.github.io/post/2020-05-30-isca/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://diwu1990.github.io/publication/2020-05-30-isca/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -165,6 +135,11 @@
   <url>
     <loc>https://diwu1990.github.io/talk/2020-02-24-ece752-unary/</loc>
     <lastmod>2020-02-24T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/tag/approximate-computing/</loc>
+    <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,12 +228,22 @@
   </url>
   
   <url>
+    <loc>https://diwu1990.github.io/tag/stochastic-computing/</loc>
+    <lastmod>2019-06-02T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://diwu1990.github.io/tag/division/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://diwu1990.github.io/publication/2019-06-02-dac/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/post/2019-06-02-dac/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -274,6 +259,11 @@
   
   <url>
     <loc>https://diwu1990.github.io/tag/dataflow/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diwu1990.github.io/tag/deep-learning/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -300,11 +290,6 @@
   <url>
     <loc>https://diwu1990.github.io/talk/2019-03-13-ece752-dl-sc/</loc>
     <lastmod>2019-03-13T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diwu1990.github.io/post/hello-world/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -21,45 +21,6 @@
     </item>
     
     <item>
-      <title>ISCA&#39;20 paper is selected in IEEE Micro Top Picks 2021</title>
-      <link>https://diwu1990.github.io/post/toppicks2021/</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/toppicks2021/</guid>
-      <description>&lt;p&gt;A brief introduction to the original &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is &lt;a href=&#34;https://diwu1990.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper is accepted in IEEE Design &amp; Test 2021</title>
-      <link>https://diwu1990.github.io/post/ieeedt-accepted/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/ieeedt-accepted/</guid>
-      <description>&lt;p&gt;This paper is titled &amp;ldquo;In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing&amp;rdquo; in the IEEE Design &amp;amp; Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended version of the previous &lt;a href=&#34;https://diwu1990.github.io/publication/2019-06-02-dac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DAC&#39;19 paper&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RAVEN focuses on the time-scalability of DL models</title>
-      <link>https://diwu1990.github.io/post/raven-post-0/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/raven-post-0/</guid>
-      <description>&lt;p&gt;I consider two aspects that RAVEN coincides with &lt;a href=&#34;https://www.simplemachines.ai/ai%E2%80%99s-impact-hardware-why-chips-need-be-redesigned-keep-new-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimpleMachines&amp;rsquo;s post&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;First, RAVEN targets the nonlinearity, sparsity and compatibility of accelerators to emerging neural network.
-SimpleMachines nicely summarise the recent development in DNNs with NMT as an example. Bert and LSTM based implementations of NMT pose different requirements to the hardware, which I believe fall into the realm of RAVEN.&lt;/p&gt;
-&lt;p&gt;Second, RAVEN is architected based on reconfigurable MAC arrays, introducing minimal programming overheads, which is also suggested by SimpleMachines.&lt;/p&gt;
-&lt;p&gt;More ideas about the scheduling of RAVEN will come later.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper is accepted in ASP-DAC 2021</title>
-      <link>https://diwu1990.github.io/post/aspdac-accepted/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/aspdac-accepted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
       <link>https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/</link>
       <pubDate>Mon, 01 Jun 2020 13:00:00 +0000</pubDate>
@@ -128,14 +89,6 @@ SimpleMachines nicely summarise the recent development in DNNs with NMT as an ex
       <link>https://diwu1990.github.io/talk/2019-03-13-ece752-dl-sc/</link>
       <pubDate>Wed, 13 Mar 2019 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2019-03-13-ece752-dl-sc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://diwu1990.github.io/post/hello-world/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/hello-world/</guid>
       <description></description>
     </item>
     
