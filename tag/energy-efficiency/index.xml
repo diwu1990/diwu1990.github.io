@@ -65,7 +65,7 @@
       <link>https://diwu1990.github.io/project/unary/</link>
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/project/unary/</guid>
-      <description>&lt;p&gt;Unary computing applies unary bit streams as internal data, and mitigates the conversion of data from unary to binary in converntional computers, leading to less system-level latency, as in the diagram.
+      <description>&lt;p&gt;Unary computing applies unary bitstreams as internal data, and mitigates the conversion of data from unary to binary in converntional computers, leading to less system-level latency, as in the diagram.
 Currently, unary computing has already been applied to low-density parity-check code, image processing and machine learning. We create &lt;a href=&#34;https://github.com/diwu1990/UnarySim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UnarySim&lt;/a&gt; to accurately simulate the behavior of unary computing at cycle level.&lt;/p&gt;
 </description>
     </item>
