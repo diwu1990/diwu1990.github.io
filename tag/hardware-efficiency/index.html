@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="For error-resilient applications, such as machine learning and signal processing, a significant improvement in energy efficiency can be achieved by relaxing exactness constraint on output quality. This paper presents a taxonomy of hardware techniques to exploit the trade-off between energy efficiency and quality in various computer subsystems. We classify approximate hardware techniques according to target subsystem and support for dynamic energy-quality scaling.">
+  <meta name="description" content="PhD student">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://diwu1990.github.io/publication/2020-01-19-iceic/">
+  <link rel="alternate" hreflang="en-us" href="https://diwu1990.github.io/tag/hardware-efficiency/">
 
   
 
@@ -260,6 +260,8 @@
   
 
   
+  <link rel="alternate" href="/tag/hardware-efficiency/index.xml" type="application/rss+xml" title="Di Wu&#39;s Homepage">
+  
 
   
   <link rel="manifest" href="/index.webmanifest">
@@ -268,7 +270,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://diwu1990.github.io/publication/2020-01-19-iceic/">
+  <link rel="canonical" href="https://diwu1990.github.io/tag/hardware-efficiency/">
 
   
   
@@ -284,63 +286,17 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Di Wu&#39;s Homepage">
-  <meta property="og:url" content="https://diwu1990.github.io/publication/2020-01-19-iceic/">
-  <meta property="og:title" content="Approximate Hardware Techniques for Energy-Quality Scaling Across the System | Di Wu&#39;s Homepage">
-  <meta property="og:description" content="For error-resilient applications, such as machine learning and signal processing, a significant improvement in energy efficiency can be achieved by relaxing exactness constraint on output quality. This paper presents a taxonomy of hardware techniques to exploit the trade-off between energy efficiency and quality in various computer subsystems. We classify approximate hardware techniques according to target subsystem and support for dynamic energy-quality scaling."><meta property="og:image" content="https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://diwu1990.github.io/tag/hardware-efficiency/">
+  <meta property="og:title" content="Hardware Efficiency | Di Wu&#39;s Homepage">
+  <meta property="og:description" content="PhD student"><meta property="og:image" content="https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    
-      <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
-    
-    <meta property="article:modified_time" content="2020-01-19T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2019-06-02T00:00:00&#43;00:00">
   
 
   
 
 
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://diwu1990.github.io/publication/2020-01-19-iceic/"
-  },
-  "headline": "Approximate Hardware Techniques for Energy-Quality Scaling Across the System",
-  
-  "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2020-01-19T00:00:00Z",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Younghyun Kim"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Di Wu's Homepage",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://diwu1990.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "For error-resilient applications, such as machine learning and signal processing, a significant improvement in energy efficiency can be achieved by relaxing exactness constraint on output quality. This paper presents a taxonomy of hardware techniques to exploit the trade-off between energy efficiency and quality in various computer subsystems. We classify approximate hardware techniques according to target subsystem and support for dynamic energy-quality scaling."
-}
-</script>
-
-  
-
-  
 
 
   
@@ -352,7 +308,7 @@
 
 
 
-  <title>Approximate Hardware Techniques for Energy-Quality Scaling Across the System | Di Wu&#39;s Homepage</title>
+  <title>Hardware Efficiency | Di Wu&#39;s Homepage</title>
 
 </head>
 
@@ -699,17 +655,6 @@
 
 
 
-<div class="pub">
-
-  
-
-
-
-
-
-
-
-
 
 
 
@@ -717,478 +662,40 @@
   
 
   
-  
-  
-<div class="article-container pt-3">
-  <h1>Approximate Hardware Techniques for Energy-Quality Scaling Across the System</h1>
-
-  
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      <a href="/author/younghyun-kim/">Younghyun Kim</a></span>, <span >
-      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>, <span >
-      <a href="/author/setareh-behroozi/">Setareh Behroozi</a></span>, <span >
-      <a href="/author/tianen-chen/">Tianen Chen</a></span>, <span >
-      <a href="/author/kyuin-lee/">Kyuin Lee</a></span>, <span >
-      <a href="/author/yongwoo-lee/">Yongwoo Lee</a></span>, <span >
-      <a href="/author/jingjie-li/">Jingjie Li</a></span>, <span class="author-highlighted">
-      <a href="/author/di-wu/">Di Wu</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    January 2020
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-    
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="/files/2020-01-19-iceic-paper.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/2020-01-19-iceic/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
   
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/document/9051208" target="_blank" rel="noopener">
-  Source Document
-</a>
+<div class="universal-wrapper pt-3">
+  <h1>Hardware Efficiency</h1>
 
-
-
-
-</div>
-
+  
 
   
 </div>
 
 
 
-  <div class="article-container">
+<div class="universal-wrapper">
+  
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract">For error-resilient applications, such as machine learning and signal processing, a significant improvement in energy efficiency can be achieved by relaxing exactness constraint on output quality. This paper presents a taxonomy of hardware techniques to exploit the trade-off between energy efficiency and quality in various computer subsystems. We classify approximate hardware techniques according to target subsystem and support for dynamic energy-quality scaling.</p>
-    
-
+  
+  
     
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-          </div>
-        </div>
+    
+    <div>
+      <h2><a href="/publication/2019-06-02-dac/" >In-Stream Stochastic Division and Square Root via Correlation</a></h2>
+      <div class="article-style">
+        
+          Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic …
+        
       </div>
-      <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>International Conference on Electronics, Information, and Communication</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-
-
-
-
-
-<div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/approximate-computing/">Approximate Computing</a>
-  
-  <a class="badge badge-light" href="/tag/hardware-architecture/">Hardware Architecture</a>
-  
-  <a class="badge badge-light" href="/tag/energy-efficiency/">Energy Efficiency</a>
-  
-  <a class="badge badge-light" href="/tag/dynamic-accuracy-energy-scaling/">Dynamic Accuracy-Energy Scaling</a>
-  
-</div>
-
-
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://diwu1990.github.io/publication/2020-01-19-iceic/&amp;text=Approximate%20Hardware%20Techniques%20for%20Energy-Quality%20Scaling%20Across%20the%20System" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://diwu1990.github.io/publication/2020-01-19-iceic/&amp;t=Approximate%20Hardware%20Techniques%20for%20Energy-Quality%20Scaling%20Across%20the%20System" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=Approximate%20Hardware%20Techniques%20for%20Energy-Quality%20Scaling%20Across%20the%20System&amp;body=https://diwu1990.github.io/publication/2020-01-19-iceic/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://diwu1990.github.io/publication/2020-01-19-iceic/&amp;title=Approximate%20Hardware%20Techniques%20for%20Energy-Quality%20Scaling%20Across%20the%20System" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="whatsapp://send?text=Approximate%20Hardware%20Techniques%20for%20Energy-Quality%20Scaling%20Across%20the%20System%20https://diwu1990.github.io/publication/2020-01-19-iceic/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://diwu1990.github.io/publication/2020-01-19-iceic/&amp;title=Approximate%20Hardware%20Techniques%20for%20Energy-Quality%20Scaling%20Across%20the%20System" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="https://diwu1990.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/di-wu/avatar_huc554c8608ebd81bccfa513ee25b345eb_2440453_270x270_fill_lanczos_center_2.png" alt="Di Wu"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="https://diwu1990.github.io/">Di Wu</a></h5>
-      <h6 class="card-subtitle">PhD student</h6>
-      <p class="card-text">A Wisconsin Badger in Computer Architecture!</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:di.wu@ece.wisc.edu" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/diwu1990" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=v6DNkTAAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/diwu1990" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/cv/CV_Di_Wu.pdf" >
-        <i class="ai ai-cv"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
-
 
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/2019-07-29-islped/">SECO: A Scalable Accuracy Approximate Exponential Function Via Cross-Layer Optimization</a></li>
-      
-      <li><a href="/publication/2020-05-30-isca/">uGEMM: Unary Computing Architecture for GEMM Applications</a></li>
-      
-      <li><a href="/publication/2021-01-18-aspdac/">Normalized Stability: A Cross-Level Design Metric for Early Termination in Stochastic Computing</a></li>
-      
-      <li><a href="/publication/2019-06-02-dac/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
-      
-      <li><a href="/project/raven/">RAVEN</a></li>
-      
-    </ul>
-  </div>
-  
-
-
-
-
-
-  </div>
 </div>
   </div>
 
