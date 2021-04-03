@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Present an ultra-low power unary computing architecture for GEMM, which is compatible for both temporal and rate coding." />
+  <meta name="description" content="This work was done while interning at Cerebras Systems, and the paper can be found here." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/" />
+  <link rel="alternate" hreflang="en-us" href="https://diwu1990.github.io/post/2021-03-29-cbfloat/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/" />
+  <link rel="canonical" href="https://diwu1990.github.io/post/2021-03-29-cbfloat/" />
 
   
   
@@ -293,39 +293,82 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Di Wu&#39;s Homepage" />
-  <meta property="og:url" content="https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/" />
-  <meta property="og:title" content="uGEMM: Unary Computing Architecture for GEMM Applications | Di Wu&#39;s Homepage" />
-  <meta property="og:description" content="Present an ultra-low power unary computing architecture for GEMM, which is compatible for both temporal and rate coding." /><meta property="og:image" content="https://diwu1990.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://diwu1990.github.io/post/2021-03-29-cbfloat/" />
+  <meta property="og:title" content="A paper on 16-bit floating point training is up on arXiv! | Di Wu&#39;s Homepage" />
+  <meta property="og:description" content="This work was done while interning at Cerebras Systems, and the paper can be found here." /><meta property="og:image" content="https://diwu1990.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://diwu1990.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2017-01-01T00:00:00&#43;00:00"
+        content="2021-03-29T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-06-01T13:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-03-29T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://diwu1990.github.io/post/2021-03-29-cbfloat/"
+  },
+  "headline": "A paper on 16-bit floating point training is up on arXiv!",
+  
+  "datePublished": "2021-03-29T00:00:00Z",
+  "dateModified": "2021-03-29T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Di Wu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Di Wu's Homepage",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://diwu1990.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "This work was done while interning at Cerebras Systems, and the paper can be found here."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
-
-  
 
 
-
-
-
-  <title>uGEMM: Unary Computing Architecture for GEMM Applications | Di Wu&#39;s Homepage</title>
+  <title>A paper on 16-bit floating point training is up on arXiv! | Di Wu&#39;s Homepage</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1f066bb05cd5f164beb5cf1a1e151475" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e1532d6b126fd2ea2364aae11bab135c" >
 
   
   
@@ -640,7 +683,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>uGEMM: Unary Computing Architecture for GEMM Applications</h1>
+  <h1>A paper on 16-bit floating point training is up on arXiv!</h1>
 
   
 
@@ -652,16 +695,6 @@
 
   
   
-  
-  
-  <div>
-    
-
-  <span class="author-highlighted">
-      <a href="/author/di-wu/">Di Wu</a></span>
-  </div>
-  
-  
 
   
   <span class="article-date">
@@ -669,13 +702,18 @@
     
       
     
-    Jun 1, 2020
+    Mar 29, 2021
   </span>
   
 
   
 
   
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
 
   
   
@@ -693,53 +731,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/project/unary/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=4lCKXD3g3yk" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-</div>
 
 
   
@@ -750,7 +741,8 @@
   <div class="article-container">
 
     <div class="article-style">
-      
+      <p>This work was done while interning at Cerebras Systems, and the paper can be found <a href="https://arxiv.org/abs/2103.15940" target="_blank" rel="noopener">here</a>.</p>
+
     </div>
 
     
@@ -759,16 +751,6 @@
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/unary-computing/">Unary Computing</a>
-  
-  <a class="badge badge-light" href="/tag/gemm/">GEMM</a>
-  
-  <a class="badge badge-light" href="/tag/architecture/">Architecture</a>
-  
-</div>
 
 
 
@@ -783,7 +765,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/&amp;text=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://diwu1990.github.io/post/2021-03-29-cbfloat/&amp;text=A%20paper%20on%2016-bit%20floating%20point%20training%20is%20up%20on%20arXiv!" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -796,7 +778,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/&amp;t=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://diwu1990.github.io/post/2021-03-29-cbfloat/&amp;t=A%20paper%20on%2016-bit%20floating%20point%20training%20is%20up%20on%20arXiv!" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -809,7 +791,7 @@
       
       
       <li>
-        <a href="mailto:?subject=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications&amp;body=https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=A%20paper%20on%2016-bit%20floating%20point%20training%20is%20up%20on%20arXiv!&amp;body=https://diwu1990.github.io/post/2021-03-29-cbfloat/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -822,7 +804,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/&amp;title=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://diwu1990.github.io/post/2021-03-29-cbfloat/&amp;title=A%20paper%20on%2016-bit%20floating%20point%20training%20is%20up%20on%20arXiv!" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -835,7 +817,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications%20https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=A%20paper%20on%2016-bit%20floating%20point%20training%20is%20up%20on%20arXiv!%20https://diwu1990.github.io/post/2021-03-29-cbfloat/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -848,7 +830,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/&amp;title=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://diwu1990.github.io/post/2021-03-29-cbfloat/&amp;title=A%20paper%20on%2016-bit%20floating%20point%20training%20is%20up%20on%20arXiv!" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -868,7 +850,6 @@
 
   
   
-    
 
 
 
@@ -976,7 +957,6 @@
   </div>
 
 
-  
 
 
 
@@ -992,23 +972,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/talk/2019-10-11-affliate-ugemm/">Unary Computing for General Matrix Multiplication</a></li>
-      
-      <li><a href="/project/unary/">Unary Computing</a></li>
-      
-      <li><a href="/publication/2020-05-30-isca/">uGEMM: Unary Computing Architecture for GEMM Applications</a></li>
-      
-      <li><a href="/talk/2019-03-13-ece752-dl-sc/">Deep Learning and Stochastic Computing</a></li>
-      
-      <li><a href="/publication/2019-06-02-dac/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
-      
-    </ul>
-  </div>
   
 
 
