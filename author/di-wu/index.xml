@@ -5,12 +5,22 @@
     <link>https://diwu1990.github.io/author/di-wu/</link>
       <atom:link href="https://diwu1990.github.io/author/di-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Di Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/author/di-wu/avatar_huc554c8608ebd81bccfa513ee25b345eb_2440453_270x270_fill_lanczos_center_2.png</url>
       <title>Di Wu</title>
       <link>https://diwu1990.github.io/author/di-wu/</link>
     </image>
+    
+    <item>
+      <title>Unary Computing</title>
+      <link>https://diwu1990.github.io/talk/2021-04-16-ece757-unary/</link>
+      <pubDate>Fri, 16 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/talk/2021-04-16-ece757-unary/</guid>
+      <description>&lt;p&gt;(UW-Madison ECE757 Guest Lecture)&lt;/p&gt;
+&lt;p&gt;Present the current unary computing stack.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>uGEMM: Unary Computing for GEMM Applications</title>
@@ -56,9 +66,9 @@
     
     <item>
       <title>Introduction to Unary Computing</title>
-      <link>https://diwu1990.github.io/talk/2020-02-24-ece752-unary/</link>
+      <link>https://diwu1990.github.io/talk/2020-02-24-ece757-unary/</link>
       <pubDate>Mon, 24 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/talk/2020-02-24-ece752-unary/</guid>
+      <guid>https://diwu1990.github.io/talk/2020-02-24-ece757-unary/</guid>
       <description>&lt;p&gt;(UW-Madison ECE757 Guest Lecture)&lt;/p&gt;
 &lt;p&gt;Present the basic concept of unary computing, as well as its mechanism and application.&lt;/p&gt;
 </description>
