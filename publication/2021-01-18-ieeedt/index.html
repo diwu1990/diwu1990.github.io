@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Present division and square root design in stochastic computing, which achieve high accuracy and efficiency by leveraging stochastic correlation among bit streams." />
+  <meta name="description" content="Stochastic Computing (SC) has shown great promise in achieving low hardware area and power consumption for neuromorphic architectures compared to traditional binary-encoded computation, due to its bit-serial data representation and extremely straightforward logic. With emerging deep learning models requiring more sophisticated nonlinear operations, we propose new designs for SC division and square root. Our designs are novel in their ability to leverage SC correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. Our experiments show that, compared to state-of-the-art designs, our proposed division and square root units simultaneously achieve higher accuracy and consume less area." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://diwu1990.github.io/talk/2019-06-02-dac-instream/" />
+  <link rel="alternate" hreflang="en-us" href="https://diwu1990.github.io/publication/2021-01-18-ieeedt/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://diwu1990.github.io/talk/2019-06-02-dac-instream/" />
+  <link rel="canonical" href="https://diwu1990.github.io/publication/2021-01-18-ieeedt/" />
 
   
   
@@ -293,9 +293,9 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Di Wu&#39;s Homepage" />
-  <meta property="og:url" content="https://diwu1990.github.io/talk/2019-06-02-dac-instream/" />
-  <meta property="og:title" content="In-Stream Stochastic Division and Square Root via Correlation | Di Wu&#39;s Homepage" />
-  <meta property="og:description" content="Present division and square root design in stochastic computing, which achieve high accuracy and efficiency by leveraging stochastic correlation among bit streams." /><meta property="og:image" content="https://diwu1990.github.io/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://diwu1990.github.io/publication/2021-01-18-ieeedt/" />
+  <meta property="og:title" content="In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing | Di Wu&#39;s Homepage" />
+  <meta property="og:description" content="Stochastic Computing (SC) has shown great promise in achieving low hardware area and power consumption for neuromorphic architectures compared to traditional binary-encoded computation, due to its bit-serial data representation and extremely straightforward logic. With emerging deep learning models requiring more sophisticated nonlinear operations, we propose new designs for SC division and square root. Our designs are novel in their ability to leverage SC correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. Our experiments show that, compared to state-of-the-art designs, our proposed division and square root units simultaneously achieve higher accuracy and consume less area." /><meta property="og:image" content="https://diwu1990.github.io/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://diwu1990.github.io/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -304,28 +304,69 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2019-06-02T13:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-01-11T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://diwu1990.github.io/publication/2021-01-18-ieeedt/"
+  },
+  "headline": "In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing",
+  
+  "datePublished": "2017-01-01T00:00:00Z",
+  "dateModified": "2021-01-11T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Di Wu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Di Wu's Homepage",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://diwu1990.github.io/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Stochastic Computing (SC) has shown great promise in achieving low hardware area and power consumption for neuromorphic architectures compared to traditional binary-encoded computation, due to its bit-serial data representation and extremely straightforward logic. With emerging deep learning models requiring more sophisticated nonlinear operations, we propose new designs for SC division and square root. Our designs are novel in their ability to leverage SC correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. Our experiments show that, compared to state-of-the-art designs, our proposed division and square root units simultaneously achieve higher accuracy and consume less area."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
-
-  
 
 
-
-
-
-  <title>In-Stream Stochastic Division and Square Root via Correlation | Di Wu&#39;s Homepage</title>
+  <title>In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing | Di Wu&#39;s Homepage</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="854dc8ff7bebd6202628ba5326aad8a7" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="80b7025839006ce3864e1466bd0ffc44" >
 
   
   
@@ -619,7 +660,16 @@
   </div>
 
   <div class="page-body">
-    <article class="article">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -640,7 +690,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>In-Stream Stochastic Division and Square Root via Correlation</h1>
+  <h1>In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing</h1>
 
   
 
@@ -658,7 +708,9 @@
     
 
   <span class="author-highlighted">
-      <a href="/author/di-wu/">Di Wu</a></span>
+      <a href="/author/di-wu/">Di Wu</a></span>, <span >
+      <a href="/author/ruokai-yin/">Ruokai Yin</a></span>, <span >
+      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>
   </div>
   
   
@@ -669,7 +721,7 @@
     
       
     
-    Jun 2, 2019
+    January 2021
   </span>
   
 
@@ -706,11 +758,30 @@
 
 
   
+    
+  
 
 
 
+<a class="btn btn-outline-primary btn-page-header" href="/files/2021-01-18-aspdac-paper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/2021-01-18-ieeedt/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/diwu1990/UnarySim/tree/master/sw/test/metric" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -725,8 +796,24 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/files/2021-01-18-aspdac-slide.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
 
 
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://dl.acm.org/doi/10.1145/3394885.3431549" target="_blank" rel="noopener">
+  Source Document
+</a>
 
 
 
@@ -741,9 +828,47 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Stochastic Computing (SC) has shown great promise in achieving low hardware area and power consumption for neuromorphic architectures compared to traditional binary-encoded computation, due to its bit-serial data representation and extremely straightforward logic. With emerging deep learning models requiring more sophisticated nonlinear operations, we propose new designs for SC division and square root. Our designs are novel in their ability to leverage SC correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. Our experiments show that, compared to state-of-the-art designs, our proposed division and square root units simultaneously achieve higher accuracy and consume less area.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>IEEE Design &amp; Test</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
@@ -753,8 +878,6 @@
 
 
 <div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/unary-computing/">Unary Computing</a>
   
   <a class="badge badge-light" href="/tag/stochastic-computing/">Stochastic Computing</a>
   
@@ -775,7 +898,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://diwu1990.github.io/talk/2019-06-02-dac-instream/&amp;text=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://diwu1990.github.io/publication/2021-01-18-ieeedt/&amp;text=In-Stream%20Correlation-Based%20Division%20and%20Bit-Inserting%20Square%20Root%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -788,7 +911,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://diwu1990.github.io/talk/2019-06-02-dac-instream/&amp;t=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://diwu1990.github.io/publication/2021-01-18-ieeedt/&amp;t=In-Stream%20Correlation-Based%20Division%20and%20Bit-Inserting%20Square%20Root%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -801,7 +924,7 @@
       
       
       <li>
-        <a href="mailto:?subject=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation&amp;body=https://diwu1990.github.io/talk/2019-06-02-dac-instream/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=In-Stream%20Correlation-Based%20Division%20and%20Bit-Inserting%20Square%20Root%20in%20Stochastic%20Computing&amp;body=https://diwu1990.github.io/publication/2021-01-18-ieeedt/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -814,7 +937,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://diwu1990.github.io/talk/2019-06-02-dac-instream/&amp;title=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://diwu1990.github.io/publication/2021-01-18-ieeedt/&amp;title=In-Stream%20Correlation-Based%20Division%20and%20Bit-Inserting%20Square%20Root%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -827,7 +950,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation%20https://diwu1990.github.io/talk/2019-06-02-dac-instream/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=In-Stream%20Correlation-Based%20Division%20and%20Bit-Inserting%20Square%20Root%20in%20Stochastic%20Computing%20https://diwu1990.github.io/publication/2021-01-18-ieeedt/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -840,7 +963,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://diwu1990.github.io/talk/2019-06-02-dac-instream/&amp;title=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://diwu1990.github.io/publication/2021-01-18-ieeedt/&amp;title=In-Stream%20Correlation-Based%20Division%20and%20Bit-Inserting%20Square%20Root%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -969,6 +1092,18 @@
 
 
   
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -991,13 +1126,13 @@
       
       <li><a href="/publication/2019-06-02-dac/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
       
+      <li><a href="/talk/2019-06-02-dac-instream/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
+      
       <li><a href="/talk/2018-10-12-affiliate-nonlinearsc/">Nonlinear Stochastic Functions for Capsule Neural Network</a></li>
       
-      <li><a href="/publication/2021-01-18-ieeedt/">In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing</a></li>
+      <li><a href="/publication/2019-07-29-islped/">SECO: A Scalable Accuracy Approximate Exponential Function Via Cross-Layer Optimization</a></li>
       
       <li><a href="/publication/2013-10-28-asicon/">A High-Throughput LDPC decoder For Optical Communication</a></li>
-      
-      <li><a href="/publication/2015-07-21-dsp/">An Area-Efficient Architecture for Stochastic LDPC Decoder</a></li>
       
     </ul>
   </div>
@@ -1008,7 +1143,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">
