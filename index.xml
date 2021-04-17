@@ -87,7 +87,9 @@ And it is an extended work of the previous &lt;a href=&#34;https://ieeexplore.ie
       <link>https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/</link>
       <pubDate>Mon, 01 Jun 2020 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/</guid>
-      <description></description>
+      <description>&lt;p&gt;(ISCA&#39;20)&lt;/p&gt;
+&lt;p&gt;Present an ultra-low power unary computing architecture for GEMM, which is compatible for both temporal and rate coding.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -112,7 +114,9 @@ And it is an extended work of the previous &lt;a href=&#34;https://ieeexplore.ie
       <link>https://diwu1990.github.io/talk/2020-02-24-ece752-unary/</link>
       <pubDate>Mon, 24 Feb 2020 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2020-02-24-ece752-unary/</guid>
-      <description></description>
+      <description>&lt;p&gt;(UW-Madison ECE757 Guest Lecture)&lt;/p&gt;
+&lt;p&gt;Present the basic concept of unary computing, as well as its mechanism and application.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -128,7 +132,9 @@ And it is an extended work of the previous &lt;a href=&#34;https://ieeexplore.ie
       <link>https://diwu1990.github.io/talk/2019-10-11-affliate-ugemm/</link>
       <pubDate>Fri, 11 Oct 2019 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2019-10-11-affliate-ugemm/</guid>
-      <description></description>
+      <description>&lt;p&gt;(UW-Madison Computer Architecture Affiliate Meeting)&lt;/p&gt;
+&lt;p&gt;Present uGEMM architecture, a high performance uanry computing architecture to unify the computation for both rate- and temporal-coded bit streams.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -153,7 +159,9 @@ And it is an extended work of the previous &lt;a href=&#34;https://ieeexplore.ie
       <link>https://diwu1990.github.io/talk/2019-06-02-dac-instream/</link>
       <pubDate>Sun, 02 Jun 2019 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2019-06-02-dac-instream/</guid>
-      <description></description>
+      <description>&lt;p&gt;(DAC&#39;19)&lt;/p&gt;
+&lt;p&gt;Present division and square root design in stochastic computing, which achieve high accuracy and efficiency by leveraging stochastic correlation among bit streams.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -188,7 +196,9 @@ RAVEN was among &lt;a href=&#34;https://www.qualcomm.com/invention/research/univ
       <link>https://diwu1990.github.io/talk/2019-03-13-ece752-dl-sc/</link>
       <pubDate>Wed, 13 Mar 2019 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2019-03-13-ece752-dl-sc/</guid>
-      <description></description>
+      <description>&lt;p&gt;(UW-Madison ECE752 Guest Lecture)&lt;/p&gt;
+&lt;p&gt;Introduce deep learning and stochastic computing, as well as the latest research overlapping both.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -196,7 +206,9 @@ RAVEN was among &lt;a href=&#34;https://www.qualcomm.com/invention/research/univ
       <link>https://diwu1990.github.io/talk/2018-10-12-affiliate-nonlinearsc/</link>
       <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2018-10-12-affiliate-nonlinearsc/</guid>
-      <description></description>
+      <description>&lt;p&gt;(UW-Madison Computer Architecture Affiliate Meeting)&lt;/p&gt;
+&lt;p&gt;Present design of nonlinear functions for stochastic computing, which can be used in Capsule Neural Network.&lt;/p&gt;
+</description>
     </item>
     
     <item>

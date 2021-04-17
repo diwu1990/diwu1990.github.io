@@ -17,7 +17,9 @@
       <link>https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/</link>
       <pubDate>Mon, 01 Jun 2020 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2020-06-01-isca-ugemm/</guid>
-      <description></description>
+      <description>&lt;p&gt;(ISCA&#39;20)&lt;/p&gt;
+&lt;p&gt;Present an ultra-low power unary computing architecture for GEMM, which is compatible for both temporal and rate coding.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +27,9 @@
       <link>https://diwu1990.github.io/talk/2019-10-11-affliate-ugemm/</link>
       <pubDate>Fri, 11 Oct 2019 13:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/talk/2019-10-11-affliate-ugemm/</guid>
-      <description></description>
+      <description>&lt;p&gt;(UW-Madison Computer Architecture Affiliate Meeting)&lt;/p&gt;
+&lt;p&gt;Present uGEMM architecture, a high performance uanry computing architecture to unify the computation for both rate- and temporal-coded bit streams.&lt;/p&gt;
+</description>
     </item>
     
     <item>
