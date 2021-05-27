@@ -5,12 +5,30 @@
     <link>https://diwu1990.github.io/</link>
       <atom:link href="https://diwu1990.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Di Wu&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/media/icon_hu30c5d2ffb9d9f3ea80d3a9a5bfe607d0_64140_512x512_fill_lanczos_center_2.png</url>
       <title>Di Wu&#39;s Homepage</title>
       <link>https://diwu1990.github.io/</link>
     </image>
+    
+    <item>
+      <title>uGEMM (ISCA&#39;20) is selected as one of twelve IEEE Micro Top Picks for 2020</title>
+      <link>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9376243&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This top pick paper&lt;/a&gt; is titled &amp;ldquo;uGEMM: Unary Computing for GEMM Applications&amp;rdquo; in the IEEE Micro 2021 special issue on &amp;ldquo;Top Picks from the 2020 Computer Architecture Conferences&amp;rdquo;, collecting some of the most significant research papers in computer architecture based on novelty and potential for long-term impact.
+And it is an extended work of the previous &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>uGEMM: Unary Computing for GEMM Applications</title>
+      <link>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A paper on unifying multiple nonlinear operations with approximate computing is accepted in ISLPED 2021</title>
@@ -40,14 +58,6 @@
     </item>
     
     <item>
-      <title>uGEMM: Unary Computing for GEMM Applications</title>
-      <link>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The website for unary computing is up</title>
       <link>https://diwu1990.github.io/post/2021-02-02-unary-web/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -70,16 +80,6 @@
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://diwu1990.github.io/publication/2021-01-11-ieeedt/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>uGEMM (ISCA&#39;20) is selected as one of twelve IEEE Micro Top Picks for 2020</title>
-      <link>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9376243&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This top pick paper&lt;/a&gt; is titled &amp;ldquo;uGEMM: Unary Computing for GEMM Applications&amp;rdquo; in the IEEE Micro 2021 special issue on &amp;ldquo;Top Picks from the 2020 Computer Architecture Conferences&amp;rdquo;, collecting some of the most significant research papers in computer architecture based on novelty and potential for long-term impact.
-And it is an extended work of the previous &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

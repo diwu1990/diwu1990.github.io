@@ -5,12 +5,20 @@
     <link>https://diwu1990.github.io/author/di-wu/</link>
       <atom:link href="https://diwu1990.github.io/author/di-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Di Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwu1990.github.io/author/di-wu/avatar_huc554c8608ebd81bccfa513ee25b345eb_2440453_270x270_fill_lanczos_center_2.png</url>
       <title>Di Wu</title>
       <link>https://diwu1990.github.io/author/di-wu/</link>
     </image>
+    
+    <item>
+      <title>uGEMM: Unary Computing for GEMM Applications</title>
+      <link>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unary Computing</title>
@@ -20,14 +28,6 @@
       <description>&lt;p&gt;(UW-Madison ECE757 Guest Lecture)&lt;/p&gt;
 &lt;p&gt;Present the current unary computing stack.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>uGEMM: Unary Computing for GEMM Applications</title>
-      <link>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</guid>
-      <description></description>
     </item>
     
     <item>

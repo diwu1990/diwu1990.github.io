@@ -2,28 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://diwu1990.github.io/publication-type/2/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/authors/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/author/di-wu/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/tag/energy-efficiency/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/tag/gemm-architecture/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/author/hsuan-hsiao/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/author/jingjie-li/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/author/joshua-san-miguel/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/post/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/publication_types/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/publication/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/author/ruokai-yin/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/tags/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/tag/unary-computing/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diwu1990.github.io/author/younghyun-kim/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://diwu1990.github.io/post/2021-05-21-islped/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://diwu1990.github.io/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/post/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/authors/</loc>
-    <lastmod>2021-04-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/author/di-wu/</loc>
-    <lastmod>2021-04-16T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://diwu1990.github.io/talk/</loc>
-    <lastmod>2021-04-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/tags/</loc>
-    <lastmod>2021-04-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/tag/unary-computing/</loc>
     <lastmod>2021-04-16T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://diwu1990.github.io/talk/2021-04-16-ece757-unary/</loc>
@@ -31,39 +67,6 @@
   </url><url>
     <loc>https://diwu1990.github.io/post/2021-03-29-cbfloat/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/publication-type/2/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/tag/energy-efficiency/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/tag/gemm-architecture/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/author/hsuan-hsiao/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/author/jingjie-li/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/author/joshua-san-miguel/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/publication_types/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/publication/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/author/ruokai-yin/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/publication/2021-03-11-ieee-micro/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/author/younghyun-kim/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://diwu1990.github.io/post/2021-02-02-unary-web/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
@@ -94,9 +97,6 @@
   </url><url>
     <loc>https://diwu1990.github.io/tag/stochastic-computing/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diwu1990.github.io/post/2021-01-08-ieee-micro-toppicks/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://diwu1990.github.io/post/2020-12-30-ieee-dt/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
